@@ -1,16 +1,22 @@
-## Hi there 👋
+# Youssef Thabet
 
-<!--
-**youssefAlaaThabet/youssefAlaaThabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer · MSc Informatics @ TU Munich
 
-Here are some ideas to get you started:
+I build web applications across the full stack — React, Next.js, TypeScript
+on the frontend; Node.js, FastAPI, Django on the backend.
+Currently based in Munich, open to working student and full-time roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**Frontend:** React, Next.js, TypeScript, Angular, TanStack Query, Mantine  
+**Backend:** Node.js, Express, FastAPI, Django, ASP.NET  
+**Databases:** PostgreSQL, MongoDB, SQL Server  
+**Cloud:** AWS S3, Microsoft Azure  
+
+## Highlights
+- Interned at **Rocket Factory Augsburg** — built operational software for a space-launch startup
+- 2nd place at **Microsoft × TUM Hackathon** (RAG/LLM track, 2023)
+- Built an AI call transcription and sentiment analysis system at **IP Dynamics GmbH** (TUM 1000+ Program)
+- Most production repositories are private — reach out for code samples
+
+## Contact
+[LinkedIn](https://linkedin.com/in/youssef-thabet-79754021b) · youssefalaa858@yahoo.com
