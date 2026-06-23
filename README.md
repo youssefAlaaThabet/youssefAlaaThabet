@@ -23,7 +23,7 @@ I'm a full-stack software engineer based in Munich, currently pursuing my MSc in
 ## 💼 Experience Highlights
 
 - **Rocket Factory Augsburg (RFA)** — Built operational software for a space-launch startup using React, TypeScript, FastAPI, and PostgreSQL
-- **EDU GATE Egypt** — Led development of four production platforms ([EduTech](https://tech.edutech-eg.com/), [EduVenture](https://study.eduventure-eg.com/), [EduGate](https://reg.edugate-eg.com/), [AgriTech](https://reg.agritech-eg.com/)) serving thousands of users across Egypt
+- **EDU GATE Egypt** — Led development of four production platforms ([EduTech](https://tech.edutech-eg.com/), [EduVenture](https://study.eduventure-eg.com/), [EduGate](https://reg.edugate-eg.com/), [AgriTech](https://reg.agritech-eg.net/)) serving thousands of users across Egypt
 - **IP Dynamics GmbH** — Built an AI-powered real-time call transcription, summarization, and sentiment analysis system during the TUM 1000+ Innovation Program
 
 ---
